@@ -1,2 +1,2 @@
 # blog-pruebas-spring-boot
-Blog básico de pruebas realizado con srping y spring boot. Usando base de datos MySQL de forma local.
+Blog básico de pruebas realizado con Spring y spring boot. Usando base de datos MySQL de forma local.
